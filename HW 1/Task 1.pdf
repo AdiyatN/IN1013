@@ -1,0 +1,9 @@
+The Angel Warehouse
+
+The Angel Warehouse stores items for its parent company. The warehouse is organised into bays, which are storage areas, but the items themselves are stored in bins. Each bay contains a number of bins. Each bay is identified by a unique bay number and the bay location and the height of the bay are recorded. Each bin has a different number within the bay, always starting with bin no. 1, and while some bays have only 5 bins some have over 50. The size of each bin is recorded.
+
+Some bays have a parking spot for one fork lift to help move items round the warehouse and lift items into bins. Each fork lift is allocated to a bay. Each fork lift has a unique equipment number and the maximum carrying weight of the fork lift needs to be known. Some fork lifts are petrol driven while some are electric.
+
+For all bins the maximum loaded weight must be known.
+
+When an item is taken into the warehouse it is assigned a unique number and the date is recorded as well as the item weight. Bins can store a number of items and when an item is put in a particular bin this date is also recorded. Items can be moved back and forth between bays and bins to optimise the warehouse storage.
